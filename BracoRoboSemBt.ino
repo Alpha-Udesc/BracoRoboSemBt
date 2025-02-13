@@ -1,3 +1,12 @@
+/*
+ * Nome do Programa: BracoRoboSemBt
+ * Autor:
+ *     - Vinícius Ilton Estácio
+ * Revisado:
+ *     - Vinícius Giroti
+ */
+
+
 //Código do braço (sem bluetooth):
 #include <Arduino.h>
 #include <Servo.h>
